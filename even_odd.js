@@ -20,7 +20,7 @@
 // while(i<=100)
 
 
-for(i=0; i<=100;){
+for(i=0; i<=10;){
     if (i%2==0){
         console.log(i,'even number')
     }else{
